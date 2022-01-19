@@ -10,7 +10,9 @@ Die Special Solutions GmbH ist der erste Ansprechpartner bei dem im Lieferumfang
 Störungen können in drei Prioritäten gemeldet werden:
 
 Priorität 1: Reaktionszeit 1 Arbeitsstunde, Express-Zuschlag
+
 Priorität 2: Reaktionszeit 5 Arbeitsstunden, Standart-Priorität
+
 Priorität 3: Reaktionszeit 1 Arbeitstag
 
 Die Reaktionszeit ist definiert als Zeitspanne zwischen der Störungsmeldung am Helpdesk durch den Anwender und der Aufnahme der Arbeiten für die Problemlösung durch die entsprechende Spportstelle. Die Reaktionszeit gilt während folgender Servicezeiten:
@@ -63,4 +65,4 @@ Das Service Level Agreement ist bis zum 1. August 20XX gültig und wird danach n
 
 # Ort und Datum:
 
-Leipzig 17.01.2022
+Leipzig 19.01.2022
