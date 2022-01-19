@@ -16,10 +16,10 @@ Störungen können in drei Prioritäten gemeldet werden:
 Die Reaktionszeit ist definiert als Zeitspanne zwischen der Störungsmeldung am Helpdesk durch den Anwender und der Aufnahme der Arbeiten für die Problemlösung durch die entsprechende Spportstelle. Die Reaktionszeit gilt während folgender Servicezeiten:
 
 # Servicezeiten:
-Montag bis Freitag: 7:00 bis 20:00 Uhr
-Samstag: 9:00 bis 18:00 Uhr
-Sonn- und Feiertage: kein Betrieb
-Erweiterte Servicezeiten sind auf Anfrage möglich.
+- Montag bis Freitag: 7:00 bis 20:00 Uhr
+- Samstag: 9:00 bis 18:00 Uhr
+- Sonn- und Feiertage: kein Betrieb
+- Erweiterte Servicezeiten sind auf Anfrage möglich.
 
 # Sprachen:
 Deutsch
