@@ -9,11 +9,9 @@ Die Special Solutions GmbH ist der erste Ansprechpartner bei dem im Lieferumfang
 
 Störungen können in drei Prioritäten gemeldet werden:
 
-Priorität 1: Reaktionszeit 1 Arbeitsstunde, Express-Zuschlag
-
-Priorität 2: Reaktionszeit 5 Arbeitsstunden, Standart-Priorität
-
-Priorität 3: Reaktionszeit 1 Arbeitstag
+- Priorität 1: Reaktionszeit 1 Arbeitsstunde, Express-Zuschlag
+- Priorität 2: Reaktionszeit 5 Arbeitsstunden, Standart-Priorität
+- Priorität 3: Reaktionszeit 1 Arbeitstag
 
 Die Reaktionszeit ist definiert als Zeitspanne zwischen der Störungsmeldung am Helpdesk durch den Anwender und der Aufnahme der Arbeiten für die Problemlösung durch die entsprechende Spportstelle. Die Reaktionszeit gilt während folgender Servicezeiten:
 
